@@ -3,4 +3,6 @@ title: Variogram
 layout: default
 ---
 
-Test
+## Variograms
+
+This page will be discussing variograms
