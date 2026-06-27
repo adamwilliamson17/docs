@@ -1,2 +1,4 @@
-# docs 
-Docs on the following topics: 
+# Docs 
+This site contains docs on the following topics: 
+
+[Variograms](variograms)
